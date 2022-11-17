@@ -1,5 +1,5 @@
 # Laravel Pint For Sublime Text
-![demo](https://github.com/PyaeSoneAungRgn/sublime-laravel-pint/blob/main/art/demo.gif?raw=true)
+![demo](https://res.cloudinary.com/pyaesoneaung/image/upload/v1668675653/sublime-laravel-pint.gif)
 
 ## Installation
 
