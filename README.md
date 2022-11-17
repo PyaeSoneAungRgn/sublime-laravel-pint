@@ -19,6 +19,7 @@ Please Check [Laravel Pint Official Documentation](https://laravel.com/docs/9.x/
 ## Keybinding
 
 You will have to create your own keybinding.
+
 Example Keybinding
 ```json
 [
