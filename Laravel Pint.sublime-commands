@@ -1,0 +1,14 @@
+[
+    {
+        "caption": "Laravel Pint",
+        "command": "laravel_pint"
+    },
+    {
+        "caption": "Laravel Pint: Current File",
+        "command": "laravel_pint_current_file"
+    },
+    {
+        "caption": "Laravel Pint: Test",
+        "command": "laravel_pint_test"
+    }
+]
