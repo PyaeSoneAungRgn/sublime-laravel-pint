@@ -3,15 +3,16 @@
 
 ## Installation
 
-Open `Command Palette`
-Select `Package Control: Add Repository`
-Enter repository url `https://github.com/PyaeSoneAungRgn/sublime-laravel-pint`
-Select `Package Control: Install Package`
-Search `Laravel Pint`
+- Open `Command Palette`
+- Select `Package Control: Add Repository`
+- Enter repository url `https://github.com/PyaeSoneAungRgn/sublime-laravel-pint`
+- Select `Package Control: Install Package`
+- Search `Laravel Pint`
 
 ## Usage
 
-Open `Command Palette` and search for `Laravel Pint`, and pick your command.
+- Open `Command Palette`
+- Search `Laravel Pint`
 
 Please Check [Laravel Pint Official Documentation](https://laravel.com/docs/9.x/pint) for more information.
 
